@@ -1,2 +1,2 @@
-# satellitemusik
-SuperCollider program to generate music from GPS traces.
+# Satellite-Music
+SuperCollider program for making music out of GPS traces.
