@@ -8,7 +8,7 @@ SynthDef(\ping,
 		env = EnvGen.kr( Env.perc(0.01, 1, 0.25, -10), doneAction: 2 );
 		osc = SinOsc.ar( 440, 0, 0.2 );
 		noise = PinkNoise.ar(0.05);
-		out = Pan2.ar( Mix.ar( [osc, noise] ), 0, env);
+		out = Pan2.ar( Mix.ar( [osc, noise] ), Rand(-1, 1), env);
 
 		Out.ar(0, out);
 	}
