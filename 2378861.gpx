@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with BasicAirData GPS Logger for Android - ver. 2.1.4 -->
 <!-- Track 2 = 120 TrackPoints + 0 Placemarks -->
-<gpx creator="BasicAirData GPS Logger 2.1.4" version="1.0" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<gpx creator="BasicAirData GPS Logger 2.1.4" version="1.0"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 
 <trk>
  <name>20170327-095536</name>
